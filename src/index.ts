@@ -15,8 +15,6 @@ export {
   InputProps,
   Link,
   LinkProps,
-  Modal,
-  ModalProps,
   Radio,
   RadioProps,
   RadioGroup,
@@ -29,4 +27,16 @@ export {
   Typography,
   TypographyProps,
 } from "@mui/material"
+
+export {
+  LocalizationProvider,
+  LocalizationProviderProps,
+  DesktopDatePicker,
+  DesktopDatePickerProps,
+  DatePickerProps,
+} from "@mui/lab"
+
+import AdapterDateFns from "@mui/lab/AdapterDateFns"
+export { AdapterDateFns }
+
 export { mobileTheme, desktopTheme } from "./theme"
