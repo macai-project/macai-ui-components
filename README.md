@@ -4,6 +4,15 @@
 
 # macai-ui-components
 
+## how to contribute
+
+Components have to be exported from `/src/index.ts`.
+Icons have to be exported from `/src/icons/index.ts`.
+
+
+If you export a new component, add a story for the storybook in `/stories`.
+If you export a new icon, it will be automatically added to the _icons_ story.
+
 ## release flow
 
 [here](https://github.com/semantic-release/semantic-release/blob/1405b94296059c0c6878fb8b626e2c5da9317632/docs/recipes/pre-releases.md) you can find an explanation of the release flow.
