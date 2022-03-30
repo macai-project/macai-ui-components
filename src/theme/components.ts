@@ -34,3 +34,9 @@ export const MuiButton: Components["MuiButton"] = {
     },
   ],
 }
+
+export const MuiRadio: Components["MuiRadio"] = {
+  defaultProps: {
+    size: "small",
+  },
+}
