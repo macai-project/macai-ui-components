@@ -2,7 +2,7 @@ import React from "react"
 import { ComponentMeta } from "@storybook/react"
 
 import { Badge } from "../src/index"
-import { MailFilled } from "../src/icons"
+import { Mail } from "../src/icons"
 
 export default {
   component: Badge,
@@ -16,7 +16,7 @@ export const Standard = () => (
       badgeContent="42"
       color="primary"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="standard"
@@ -24,7 +24,7 @@ export const Standard = () => (
       badgeContent="42"
       color="secondary"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="standard"
@@ -32,7 +32,7 @@ export const Standard = () => (
       badgeContent="42"
       color="error"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="standard"
@@ -40,7 +40,7 @@ export const Standard = () => (
       badgeContent="42"
       color="warning"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="standard"
@@ -48,7 +48,7 @@ export const Standard = () => (
       badgeContent="42"
       color="info"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="standard"
@@ -56,7 +56,7 @@ export const Standard = () => (
       badgeContent="42"
       color="success"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
   </div>
 )
@@ -68,42 +68,42 @@ export const Dot = () => (
       anchorOrigin={{ vertical: "top", horizontal: "right" }}
       color="primary"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="dot"
       anchorOrigin={{ vertical: "top", horizontal: "right" }}
       color="secondary"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="dot"
       anchorOrigin={{ vertical: "top", horizontal: "right" }}
       color="error"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="dot"
       anchorOrigin={{ vertical: "top", horizontal: "right" }}
       color="warning"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="dot"
       anchorOrigin={{ vertical: "top", horizontal: "right" }}
       color="info"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
     <Badge
       variant="dot"
       anchorOrigin={{ vertical: "top", horizontal: "right" }}
       color="success"
     >
-      <MailFilled />
+      <Mail />
     </Badge>
   </div>
 )

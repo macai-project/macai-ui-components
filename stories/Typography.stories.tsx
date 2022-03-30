@@ -5,65 +5,37 @@ import { Typography } from "../src/index"
 
 export default {
   component: Typography,
+  args: {
+    children: "Almost before we knew it, we had left the ground.",
+  },
+  argTypes: {
+    variant: {
+      control: {
+        type: "select",
+      },
+      options: [
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "body1",
+        "body2",
+        "subtitle1",
+        "subtitle2",
+        "caption",
+        "overline",
+      ],
+    },
+  },
 } as ComponentMeta<typeof Typography>
 
-export const Header = () => (
-  <div style={{ display: "flex", flexDirection: "column", gap: 25 }}>
-    <Typography variant="h1">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="h2">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="h3">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="h4">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="h5">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="h6">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-  </div>
+const Template = (args: ComponentMeta<typeof Typography>["args"]) => (
+  <Typography {...args} />
 )
 
-export const Body = () => (
-  <div style={{ display: "flex", flexDirection: "column", gap: 25 }}>
-    <Typography variant="body1">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="body2">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-  </div>
-)
-
-export const Subtitle = () => (
-  <div style={{ display: "flex", flexDirection: "column", gap: 25 }}>
-    <Typography variant="subtitle1">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-    <Typography variant="subtitle2">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-  </div>
-)
-
-export const Caption = () => (
-  <div style={{ display: "flex", flexDirection: "column", gap: 25 }}>
-    <Typography variant="caption">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-  </div>
-)
-
-export const Overline = () => (
-  <div style={{ display: "flex", flexDirection: "column", gap: 25 }}>
-    <Typography variant="overline">
-      Almost before we knew it, we had left the ground.
-    </Typography>
-  </div>
-)
+export const typography = Template.bind({})
+typography.args = {
+  variant: "h4",
+}

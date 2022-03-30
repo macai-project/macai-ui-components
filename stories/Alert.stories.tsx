@@ -5,13 +5,39 @@ import { Alert } from "../src/index"
 
 export default {
   component: Alert,
+  args: {
+    children: "This is a message",
+  },
+  argTypes: {
+    severity: {
+      control: {
+        type: "select",
+      },
+      options: ["info", "error", "warning", "success"],
+    },
+  },
 } as ComponentMeta<typeof Alert>
 
-export const Alerts = () => (
-  <div style={{ display: "flex", flexDirection: "column", gap: 25 }}>
-    <Alert severity="error">This is an error alert — check it out!</Alert>
-    <Alert severity="warning">This is a warning alert — check it out!</Alert>
-    <Alert severity="info">This is an info alert — check it out!</Alert>
-    <Alert severity="success">"This is a success alert — check it out!</Alert>
-  </div>
+const Template = (args: ComponentMeta<typeof Alert>["args"]) => (
+  <Alert {...args} />
 )
+
+export const Info = Template.bind({})
+Info.args = {
+  severity: "info",
+}
+
+export const Error = Template.bind({})
+Error.args = {
+  severity: "error",
+}
+
+export const Warning = Template.bind({})
+Warning.args = {
+  severity: "warning",
+}
+
+export const Success = Template.bind({})
+Success.args = {
+  severity: "success",
+}

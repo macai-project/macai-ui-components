@@ -8,7 +8,7 @@ export default {
   component: Radio,
 } as ComponentMeta<typeof Radio>
 
-export const radioGroup = () => (
+export const radio = () => (
   <RadioGroup
     aria-labelledby="demo-radio-buttons-group-label"
     defaultValue="pizza"
