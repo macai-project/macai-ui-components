@@ -4,7 +4,6 @@ import { ComponentMeta } from "@storybook/react"
 import { Alert } from "../src/index"
 
 export default {
-  title: "Example/Alert",
   component: Alert,
 } as ComponentMeta<typeof Alert>
 

@@ -5,7 +5,6 @@ import * as icons from "../src/icons"
 import { SvgIcon } from "@mui/material"
 
 export default {
-  title: "Example/Icon",
   component: SvgIcon,
 } as ComponentMeta<typeof SvgIcon>
 

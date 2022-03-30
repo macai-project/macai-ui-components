@@ -9,7 +9,6 @@ import {
 } from "../src/index"
 
 export default {
-  title: "Example/Input",
   component: DesktopDatePicker,
 } as ComponentMeta<typeof DesktopDatePicker>
 

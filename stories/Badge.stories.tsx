@@ -5,7 +5,6 @@ import { Badge } from "../src/index"
 import { MailFilled } from "../src/icons"
 
 export default {
-  title: "Example/Badge",
   component: Badge,
 } as ComponentMeta<typeof Badge>
 
