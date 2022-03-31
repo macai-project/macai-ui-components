@@ -40,3 +40,32 @@ export const MuiRadio: Components["MuiRadio"] = {
     size: "small",
   },
 }
+
+export const MuiAppBar: Components["MuiAppBar"] = {
+  variants: [
+    {
+      props: {},
+      style: {
+        boxShadow: "none",
+      },
+    },
+  ],
+}
+
+export const MuiCssBaseline: Components["MuiCssBaseline"] = {
+  styleOverrides: {
+    root: {
+      "*, *::before, *::after": {
+        boxSizing: "border-box",
+      },
+    },
+  },
+}
+
+export const MuiSvgIcon: Components["MuiSvgIcon"] = {
+  styleOverrides: {
+    root: {
+      display: "block",
+    },
+  },
+}
