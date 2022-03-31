@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/macai-project/macai-ui-components/compare/v1.1.0...v1.2.0) (2022-03-31)
+
+
+### Bug Fixes
+
+* adjust some values in mobile typography ([71801ad](https://github.com/macai-project/macai-ui-components/commit/71801ad0e88cb8a00873b1393b5b823c3ab01d3c))
+
+
+### Features
+
+* add more details to the theme ([e607ba5](https://github.com/macai-project/macai-ui-components/commit/e607ba509f52f1658a4702ae8cc88a3de57171f3))
+* export more components ([cb3580a](https://github.com/macai-project/macai-ui-components/commit/cb3580ac8c519c4cece45262c7f5868afe8dc01a))
+
 # [1.1.0](https://github.com/macai-project/macai-ui-components/compare/v1.0.0...v1.1.0) (2022-03-30)
 
 
