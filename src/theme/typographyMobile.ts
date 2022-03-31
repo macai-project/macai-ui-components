@@ -25,7 +25,7 @@ export const h4: TypographyStyleOptions = {
   fontSize: "37px",
   fontStyle: "normal",
   fontWeight: 500,
-  lineHeight: "45.7px",
+  lineHeight: "44px",
   letterSpacing: 0.25,
 }
 export const h5: TypographyStyleOptions = {
