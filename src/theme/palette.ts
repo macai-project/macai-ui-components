@@ -28,7 +28,7 @@ export const info: PaletteColorOptions = {
   contrastText: "#FFFFFF",
 }
 export const success: PaletteColorOptions = {
-  main: "#01579B",
+  main: "#2EA836",
   dark: "#18581C",
   contrastText: "#FFFFFF",
 }

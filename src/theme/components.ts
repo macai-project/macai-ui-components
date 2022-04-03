@@ -69,3 +69,12 @@ export const MuiSvgIcon: Components["MuiSvgIcon"] = {
     },
   },
 }
+
+export const MuiCard: Components["MuiCard"] = {
+  styleOverrides: {
+    root: {
+      padding: "16px",
+      boxShadow: "none",
+    },
+  },
+}

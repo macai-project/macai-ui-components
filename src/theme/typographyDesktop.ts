@@ -4,7 +4,7 @@ export const h1: TypographyStyleOptions = {
   fontSize: "96px",
   fontStyle: "normal",
   fontWeight: 300,
-  lineHeight: "112.03px",
+  lineHeight: "112px",
   letterSpacing: -1.5,
 }
 export const h2: TypographyStyleOptions = {
