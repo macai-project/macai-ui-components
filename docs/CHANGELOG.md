@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/macai-project/macai-ui-components/compare/v1.2.0...v1.3.0) (2022-04-03)
+
+
+### Bug Fixes
+
+* success main color ([df470df](https://github.com/macai-project/macai-ui-components/commit/df470dfd95807a8490a8bd031206556e5879f56f))
+* update typography ([d4629fe](https://github.com/macai-project/macai-ui-components/commit/d4629fe11fb0d70837b6313ee23008c0a0772b5c))
+
+
+### Features
+
+* export `Modal` and `Container` ([1ec8ecb](https://github.com/macai-project/macai-ui-components/commit/1ec8ecb9f08477f193bb886e38a2101534661e29))
+* style Card ([747b770](https://github.com/macai-project/macai-ui-components/commit/747b770c9675f7bdc5daa3a02aa48ec5f02881fd))
+
 # [1.2.0](https://github.com/macai-project/macai-ui-components/compare/v1.1.0...v1.2.0) (2022-03-31)
 
 
