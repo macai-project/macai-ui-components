@@ -36,6 +36,7 @@ export {
   ThemeProvider,
   Typography,
   TypographyProps,
+  useTheme,
 } from "@mui/material"
 
 export {
