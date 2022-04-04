@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/macai-project/macai-ui-components/compare/v1.3.0...v1.4.0) (2022-04-04)
+
+
+### Features
+
+* export useTheme ([45e8212](https://github.com/macai-project/macai-ui-components/commit/45e821257fc1af3659cb8de8c5326c7496119879))
+
 # [1.3.0](https://github.com/macai-project/macai-ui-components/compare/v1.2.0...v1.3.0) (2022-04-03)
 
 
