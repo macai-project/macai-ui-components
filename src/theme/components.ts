@@ -88,3 +88,11 @@ export const MuiCard: Components["MuiCard"] = {
     },
   },
 }
+
+export const MuiDrawer: Components["MuiDrawer"] = {
+  styleOverrides: {
+    root: {
+      borderRadius: "4px 4px 0px 0px",
+    },
+  },
+}
