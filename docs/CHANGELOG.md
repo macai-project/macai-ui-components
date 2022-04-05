@@ -1,3 +1,16 @@
+# [1.5.0](https://github.com/macai-project/macai-ui-components/compare/v1.4.0...v1.5.0) (2022-04-05)
+
+
+### Bug Fixes
+
+* button style ([179b732](https://github.com/macai-project/macai-ui-components/commit/179b73269321dec129318f284b23e11a64f6c55e))
+* button's padding ([c75bea8](https://github.com/macai-project/macai-ui-components/commit/c75bea800da2bc8150583b2c79c315ce35cacc50))
+
+
+### Features
+
+* drawer style ([48db548](https://github.com/macai-project/macai-ui-components/commit/48db5488e9d21465528e9446ec9f85e2ab144b6a))
+
 # [1.4.0](https://github.com/macai-project/macai-ui-components/compare/v1.3.0...v1.4.0) (2022-04-04)
 
 
