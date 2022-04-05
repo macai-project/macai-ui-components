@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/macai-project/macai-ui-components/compare/v1.5.0...v1.6.0) (2022-04-05)
+
+
+### Features
+
+* export `FormControl` and `FormControlLabel` ([8172f9f](https://github.com/macai-project/macai-ui-components/commit/8172f9f5df4e7fb1fa62c35d3bb87314455204cb))
+
 # [1.5.0](https://github.com/macai-project/macai-ui-components/compare/v1.4.0...v1.5.0) (2022-04-05)
 
 
