@@ -22,12 +22,12 @@ export const MuiButton: Components["MuiButton"] = {
     },
     {
       props: { size: "large", variant: "contained" },
-      style: { padding: "16px 24px" },
+      style: { padding: "16px" },
     },
     {
       props: { size: "large", variant: "outlined" },
       style: {
-        padding: "16px 24px",
+        padding: "16px",
         border: "2px solid",
         ":hover": {
           border: "2px solid",
