@@ -4,20 +4,30 @@ export const MuiButton: Components["MuiButton"] = {
   variants: [
     {
       props: { size: "large" },
-      style: { fontSize: 19 },
+      style: {
+        fontSize: 19,
+        lineHeight: "26px",
+        letterSpacing: "0.46px",
+        fontWeight: 600,
+      },
     },
     {
       props: { size: "small" },
-      style: { fontSize: 17 },
+      style: {
+        fontSize: 17,
+        lineHeight: "22px",
+        letterSpacing: "0.46px",
+        fontWeight: 600,
+      },
     },
     {
       props: { size: "large", variant: "contained" },
-      style: { padding: "16px 32px" },
+      style: { padding: "16px" },
     },
     {
       props: { size: "large", variant: "outlined" },
       style: {
-        padding: "16px 32px",
+        padding: "16px",
         border: "2px solid",
         ":hover": {
           border: "2px solid",
@@ -75,6 +85,14 @@ export const MuiCard: Components["MuiCard"] = {
     root: {
       padding: "16px",
       boxShadow: "none",
+    },
+  },
+}
+
+export const MuiDrawer: Components["MuiDrawer"] = {
+  styleOverrides: {
+    root: {
+      borderRadius: "4px 4px 0px 0px",
     },
   },
 }
