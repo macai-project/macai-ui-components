@@ -1,3 +1,11 @@
+# [1.8.0](https://github.com/macai-project/macai-ui-components/compare/v1.7.0...v1.8.0) (2022-04-06)
+
+
+### Features
+
+* export table from mui ([9b50ba6](https://github.com/macai-project/macai-ui-components/commit/9b50ba61ee3e1113775de9ed18dc29113c477e37))
+* export table from mui ([fd0bd68](https://github.com/macai-project/macai-ui-components/commit/fd0bd686210e6393a14cec52ecff0b2ed3310236))
+
 # [1.7.0](https://github.com/macai-project/macai-ui-components/compare/v1.6.0...v1.7.0) (2022-04-06)
 
 
