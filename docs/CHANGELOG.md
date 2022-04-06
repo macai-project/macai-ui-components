@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/macai-project/macai-ui-components/compare/v1.6.0...v1.7.0) (2022-04-06)
+
+
+### Features
+
+* apply vertical padding to `Container` component ([694a690](https://github.com/macai-project/macai-ui-components/commit/694a690846cbcc562c320cc00c5854e4b2468b11))
+* define icons' sizes ([84fdd63](https://github.com/macai-project/macai-ui-components/commit/84fdd631f320daa33145a113fbb49c28ca761e76))
+
 # [1.6.0](https://github.com/macai-project/macai-ui-components/compare/v1.5.0...v1.6.0) (2022-04-05)
 
 
