@@ -96,3 +96,11 @@ export const MuiDrawer: Components["MuiDrawer"] = {
     },
   },
 }
+
+export const MuiContainer: Components["MuiContainer"] = {
+  styleOverrides: {
+    root: {
+      paddingY: "16px",
+    },
+  },
+}
