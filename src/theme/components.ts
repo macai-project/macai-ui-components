@@ -72,7 +72,19 @@ export const MuiCssBaseline: Components["MuiCssBaseline"] = {
   },
 }
 
+declare module "@mui/material/SvgIcon" {
+  interface SvgIconPropsSizeOverrides {
+    "x-large": true
+  }
+}
+
 export const MuiSvgIcon: Components["MuiSvgIcon"] = {
+  variants: [
+    { props: { fontSize: "small" }, style: { height: 35, width: 35 } },
+    { props: { fontSize: "medium" }, style: { height: 48, width: 48 } },
+    { props: { fontSize: "large" }, style: { height: 64, width: 64 } },
+    { props: { fontSize: "x-large" }, style: { height: 120, width: 120 } },
+  ],
   styleOverrides: {
     root: {
       display: "block",

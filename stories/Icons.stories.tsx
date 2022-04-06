@@ -23,13 +23,17 @@ export default {
         "text",
       ],
     },
+    fontSize: {
+      control: { type: "select" },
+      options: ["small", "medium", "large", "x-large"],
+    },
   },
 } as ComponentMeta<typeof SvgIcon>
 
 const Template = (args: ComponentMeta<typeof SvgIcon>["args"]) => (
   <Stack gap="24px" direction="row" flexWrap="wrap">
     {Object.entries(icons).map(([name, Icon]) => (
-      <Icon color={args.color} />
+      <Icon color={args.color} fontSize={args.fontSize} />
     ))}
   </Stack>
 )
@@ -37,4 +41,5 @@ const Template = (args: ComponentMeta<typeof SvgIcon>["args"]) => (
 export const Icons = Template.bind({})
 Icons.args = {
   color: "primary",
+  fontSize: "medium",
 }

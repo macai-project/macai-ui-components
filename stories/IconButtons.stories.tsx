@@ -30,7 +30,7 @@ const Template = (args: ComponentMeta<typeof SvgIcon>["args"]) => (
   <Stack gap="24px" direction="row" flexWrap="wrap">
     {Object.entries(icons).map(([name, Icon]) => (
       <IconButton>
-        <Icon color={args.color} />
+        <Icon color={args.color} fontSize="small" />
       </IconButton>
     ))}
   </Stack>
