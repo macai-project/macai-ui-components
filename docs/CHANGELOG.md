@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/macai-project/macai-ui-components/compare/v1.8.0...v1.8.1) (2022-04-06)
+
+
+### Bug Fixes
+
+* container padding ([bdb5406](https://github.com/macai-project/macai-ui-components/commit/bdb540610f4d6c519599c1e7992711b3229b747d))
+
 # [1.8.0](https://github.com/macai-project/macai-ui-components/compare/v1.7.0...v1.8.0) (2022-04-06)
 
 
