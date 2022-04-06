@@ -112,7 +112,8 @@ export const MuiDrawer: Components["MuiDrawer"] = {
 export const MuiContainer: Components["MuiContainer"] = {
   styleOverrides: {
     root: {
-      paddingY: "16px",
+      paddingTop: "16px",
+      paddingBottom: "16px",
     },
   },
 }
