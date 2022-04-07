@@ -60,8 +60,6 @@ export {
   TextFieldProps,
   ThemeOptions,
   ThemeProvider,
-  Toolbar,
-  ToolbarProps,
   Typography,
   TypographyProps,
   useTheme,
