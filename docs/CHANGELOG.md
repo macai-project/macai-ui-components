@@ -1,3 +1,14 @@
+# [1.9.0](https://github.com/macai-project/macai-ui-components/compare/v1.8.1...v1.9.0) (2022-04-07)
+
+
+### Features
+
+* **export-list:** exports Divider, List, ListItem, ListItemIcon ([7cbe3d9](https://github.com/macai-project/macai-ui-components/commit/7cbe3d9cddf8c2b5cf98ee653eae6d21759d4c44))
+* creates dividers storybook ([94d6816](https://github.com/macai-project/macai-ui-components/commit/94d6816ad1cfc06b0edd3079180f4396b3c3f60a))
+* creates list storybook ([79a3674](https://github.com/macai-project/macai-ui-components/commit/79a3674715312c74c5bde110e9c4f8e940530632))
+* exports toolbar ([d16de99](https://github.com/macai-project/macai-ui-components/commit/d16de99ceac77ac0543c9663a16154bdd708e5d7))
+* **export-list:** exports Divider, List, ListItem, ListItemIcon and ListItemText from MUI ([7cadbf2](https://github.com/macai-project/macai-ui-components/commit/7cadbf2297cf062dc956d14b76bc83cff28c66fd))
+
 ## [1.8.1](https://github.com/macai-project/macai-ui-components/compare/v1.8.0...v1.8.1) (2022-04-06)
 
 
