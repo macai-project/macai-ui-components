@@ -1,4 +1,5 @@
 import { Components } from "@mui/material"
+import * as palette from "./palette"
 
 export const MuiButton: Components["MuiButton"] = {
   variants: [
@@ -92,13 +93,67 @@ export const MuiSvgIcon: Components["MuiSvgIcon"] = {
   },
 }
 
+declare module "@mui/material/Paper" {
+  interface PaperPropsVariantOverrides {
+    neutral: true
+    info: true
+    success: true
+    warning: true
+    error: true
+  }
+}
+
 export const MuiCard: Components["MuiCard"] = {
   styleOverrides: {
     root: {
       padding: "16px",
-      boxShadow: "none",
     },
   },
+  variants: [
+    {
+      props: { variant: "neutral" },
+      style: {
+        boxShadow: `0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+          0px 1px 1px rgba(0, 0, 0, 0.14),
+          0px 1px 3px rgba(0, 0, 0, 0.12)
+        `,
+      },
+    },
+    {
+      props: { variant: "info" },
+      style: {
+        boxShadow: "none",
+        backgroundColor: palette.secondary.shades["8p"],
+      },
+    },
+    {
+      props: { variant: "success" },
+      style: {
+        boxShadow: "none",
+        backgroundColor: palette.success.shades["12p"],
+      },
+    },
+    {
+      props: { variant: "warning" },
+      style: {
+        boxShadow: "none",
+        backgroundColor: palette.warning.shades["12p"],
+      },
+    },
+    {
+      props: { variant: "error" },
+      style: {
+        boxShadow: "none",
+        backgroundColor: palette.error.shades["12p"],
+      },
+    },
+  ],
+}
+
+declare module "@mui/material/SvgIcon" {
+  interface SvgIconPropsSizeOverrides {
+    "x-large": true
+  }
 }
 
 export const MuiDrawer: Components["MuiDrawer"] = {
