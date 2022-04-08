@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/macai-project/macai-ui-components/compare/v1.9.0...v1.10.0) (2022-04-08)
+
+
+### Features
+
+* add variants for `Card` component with preset background colors ([d3992c1](https://github.com/macai-project/macai-ui-components/commit/d3992c1a5bcedb1beb7ee4e2c6909f4fef93c2af))
+
 # [1.9.0](https://github.com/macai-project/macai-ui-components/compare/v1.8.1...v1.9.0) (2022-04-07)
 
 
