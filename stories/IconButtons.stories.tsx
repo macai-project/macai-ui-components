@@ -1,6 +1,6 @@
 import React from "react"
 import { ComponentMeta } from "@storybook/react"
-import { SvgIcon } from "@mui/material"
+import SvgIcon from "@mui/material/SvgIcon"
 
 import { Stack, IconButton } from "../src"
 import * as icons from "../src/icons"
