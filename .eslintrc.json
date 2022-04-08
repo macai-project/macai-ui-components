@@ -1,0 +1,20 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": { "project": ["./tsconfig.json"] },
+  "plugins": [
+      "@typescript-eslint"
+  ],
+  "rules": {
+    "no-restricted-imports": [
+        "error",
+        {
+          "name": "@mui/material",
+          "message": "Please import from @mui/material/X instead"
+        },
+        {
+          "name": "@mui/icons-material",
+          "message": "Please import from @mui/icons-material/X instead"
+        }
+      ]
+  }
+}
