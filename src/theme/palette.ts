@@ -1,4 +1,8 @@
-import { SimplePaletteColorOptions, TypeAction, TypeText } from "@mui/material"
+import {
+  SimplePaletteColorOptions,
+  TypeAction,
+  TypeText,
+} from "@mui/material/styles"
 
 export const primary: SimplePaletteColorOptions = {
   main: "#F7931E",

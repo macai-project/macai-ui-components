@@ -1,4 +1,4 @@
-import { createTheme } from "@mui/material"
+import { createTheme } from "@mui/material/styles"
 import * as typographyMobile from "./typographyMobile"
 import * as typographyDesktop from "./typographyDesktop"
 import * as palette from "./palette"

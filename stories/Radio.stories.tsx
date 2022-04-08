@@ -2,7 +2,7 @@ import React from "react"
 import { ComponentMeta } from "@storybook/react"
 
 import { Radio, RadioGroup as RadioGroup } from "../src/index"
-import { FormControlLabel } from "@mui/material"
+import FormControlLabel from "@mui/material/FormControlLabel"
 
 export default {
   component: Radio,
