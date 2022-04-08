@@ -2,7 +2,7 @@
   "name": "macai-ui-components",
   "version": "1.10.0",
   "description": "A small library of basic react components using MUI.",
-  "main": "index.js",
+  "main": "dist",
   "publishConfig": {
     "access": "public"
   },
