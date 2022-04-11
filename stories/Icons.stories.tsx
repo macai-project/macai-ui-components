@@ -25,7 +25,7 @@ export default {
     },
     fontSize: {
       control: { type: "select" },
-      options: ["small", "medium", "large", "x-large"],
+      options: ["x-small", "small", "medium", "large", "x-large"],
     },
   },
 } as ComponentMeta<typeof SvgIcon>
