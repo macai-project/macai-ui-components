@@ -46,6 +46,7 @@ import MoreVert from "@mui/icons-material/MoreVert"
 import MoreVertOutlined from "@mui/icons-material/MoreVertOutlined"
 import Notifications from "@mui/icons-material/Notifications"
 import LocalOfferOutlined from "@mui/icons-material/LocalOfferOutlined"
+import Password from "@mui/icons-material/Password"
 import People from "@mui/icons-material/People"
 import PersonAdd from "@mui/icons-material/PersonAdd"
 import Person from "@mui/icons-material/Person"
@@ -119,6 +120,7 @@ export {
   MoreVertOutlined,
   Notifications,
   LocalOfferOutlined,
+  Password,
   People,
   PersonAdd,
   Person,
