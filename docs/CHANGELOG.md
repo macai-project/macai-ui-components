@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/macai-project/macai-ui-components/compare/v1.11.0...v1.12.0) (2022-04-11)
+
+
+### Features
+
+* add `x-small` size for icons ([ea1fe78](https://github.com/macai-project/macai-ui-components/commit/ea1fe78fcc43ebaa58bd0bc54605e8bbc4feaee6))
+
 # [1.11.0](https://github.com/macai-project/macai-ui-components/compare/v1.10.1...v1.11.0) (2022-04-11)
 
 
