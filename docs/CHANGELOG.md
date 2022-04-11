@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/macai-project/macai-ui-components/compare/v1.10.1...v1.11.0) (2022-04-11)
+
+
+### Features
+
+* add password icon ([0daa223](https://github.com/macai-project/macai-ui-components/commit/0daa223c8f5869ca440413f06b84a7294f1a46ba))
+
 ## [1.10.1](https://github.com/macai-project/macai-ui-components/compare/v1.10.0...v1.10.1) (2022-04-08)
 
 # [1.10.0](https://github.com/macai-project/macai-ui-components/compare/v1.9.0...v1.10.0) (2022-04-08)
