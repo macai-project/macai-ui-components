@@ -1,3 +1,12 @@
+# [1.13.0](https://github.com/macai-project/macai-ui-components/compare/v1.12.0...v1.13.0) (2022-04-13)
+
+
+### Features
+
+* **components:** export SvgIcon, Toolbar and styled from mui ([2e90cd6](https://github.com/macai-project/macai-ui-components/commit/2e90cd601599497501b45675c4e24d618eba5b39))
+* **components:** override Toolbar styles in mobileTheme ([f9ae896](https://github.com/macai-project/macai-ui-components/commit/f9ae896ea45307f0cacd3c2338d8896ac56a5136))
+* **icons:** export Warehouse from mui/icons-material ([cbabeff](https://github.com/macai-project/macai-ui-components/commit/cbabeff8ede78027e07245b3c06c8ac4831fe09e))
+
 # [1.12.0](https://github.com/macai-project/macai-ui-components/compare/v1.11.0...v1.12.0) (2022-04-11)
 
 
