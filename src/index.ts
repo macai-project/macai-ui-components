@@ -22,7 +22,8 @@ import ListItemText, { ListItemTextProps } from "@mui/material/ListItemText"
 import Modal, { ModalProps } from "@mui/material/Modal"
 import Radio, { RadioProps } from "@mui/material/Radio"
 import RadioGroup, { RadioGroupProps } from "@mui/material/RadioGroup"
-import Stack from "@mui/material/Stack"
+import Stack, { StackProps } from "@mui/material/Stack"
+import SvgIcon, { SvgIconProps } from "@mui/material/SvgIcon"
 import Table, { TableProps } from "@mui/material/Table"
 import TableBody, { TableBodyProps } from "@mui/material/TableBody"
 import TableCell, { TableCellProps } from "@mui/material/TableCell"
@@ -33,7 +34,13 @@ import TableContainer, {
 } from "@mui/material/TableContainer"
 import TextField, { TextFieldProps } from "@mui/material/TextField"
 import Typography, { TypographyProps } from "@mui/material/Typography"
-import { useTheme, ThemeOptions, ThemeProvider } from "@mui/material/styles"
+import Toolbar, { ToolbarProps } from "@mui/material/Toolbar"
+import {
+  useTheme,
+  ThemeOptions,
+  ThemeProvider,
+  styled,
+} from "@mui/material/styles"
 
 export {
   Alert,
@@ -81,6 +88,9 @@ export {
   RadioGroup,
   RadioGroupProps,
   Stack,
+  StackProps,
+  SvgIcon,
+  SvgIconProps,
   Table,
   TableProps,
   TableBody,
@@ -99,7 +109,10 @@ export {
   ThemeProvider,
   Typography,
   TypographyProps,
+  Toolbar,
+  ToolbarProps,
   useTheme,
+  styled,
 }
 
 import LocalizationProvider, {

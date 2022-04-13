@@ -70,6 +70,7 @@ import StarOutline from "@mui/icons-material/StarOutline"
 import AccountTreeOutlined from "@mui/icons-material/AccountTreeOutlined"
 import WarningAmberOutlined from "@mui/icons-material/WarningAmberOutlined"
 import Warning from "@mui/icons-material/Warning"
+import Warehouse from "@mui/icons-material/Warehouse"
 
 export {
   AccountCircle,
@@ -144,4 +145,5 @@ export {
   AccountTreeOutlined,
   WarningAmberOutlined,
   Warning,
+  Warehouse,
 }

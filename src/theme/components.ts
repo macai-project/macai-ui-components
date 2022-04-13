@@ -174,3 +174,11 @@ export const MuiContainer: Components["MuiContainer"] = {
     },
   },
 }
+
+export const MuiToolbar: Components["MuiToolbar"] = {
+  styleOverrides: {
+    dense: {
+      minHeight: 44,
+    },
+  },
+}
