@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/macai-project/macai-ui-components/compare/v1.13.0...v1.14.0) (2022-04-14)
+
+
+### Features
+
+* **components:** export CssBaseline ([d5eff27](https://github.com/macai-project/macai-ui-components/commit/d5eff2769eca5535dd82444cd5bbb4ab1d74f9db))
+
 # [1.13.0](https://github.com/macai-project/macai-ui-components/compare/v1.12.0...v1.13.0) (2022-04-13)
 
 
