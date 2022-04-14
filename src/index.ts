@@ -35,6 +35,7 @@ import TableContainer, {
 import TextField, { TextFieldProps } from "@mui/material/TextField"
 import Typography, { TypographyProps } from "@mui/material/Typography"
 import Toolbar, { ToolbarProps } from "@mui/material/Toolbar"
+import CssBaseline, { CssBaselineProps } from "@mui/material/CssBaseline"
 import {
   useTheme,
   ThemeOptions,
@@ -113,6 +114,8 @@ export {
   ToolbarProps,
   useTheme,
   styled,
+  CssBaseline,
+  CssBaselineProps,
 }
 
 import LocalizationProvider, {
