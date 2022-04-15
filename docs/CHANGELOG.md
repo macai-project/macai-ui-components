@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/macai-project/macai-ui-components/compare/v1.14.0...v1.15.0) (2022-04-15)
+
+
+### Features
+
+* **components:** export Backdrop & Progress ([72a5342](https://github.com/macai-project/macai-ui-components/commit/72a53425fed83c928384a0cd5d72f3da3e02e204))
+
 # [1.14.0](https://github.com/macai-project/macai-ui-components/compare/v1.13.0...v1.14.0) (2022-04-14)
 
 
