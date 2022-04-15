@@ -36,6 +36,13 @@ import TextField, { TextFieldProps } from "@mui/material/TextField"
 import Typography, { TypographyProps } from "@mui/material/Typography"
 import Toolbar, { ToolbarProps } from "@mui/material/Toolbar"
 import CssBaseline, { CssBaselineProps } from "@mui/material/CssBaseline"
+import Backdrop, { BackdropProps } from "@mui/material/Backdrop"
+import CircularProgress, {
+  CircularProgressProps,
+} from "@mui/material/CircularProgress"
+import LinearProgress, {
+  LinearProgressProps,
+} from "@mui/material/LinearProgress"
 import {
   useTheme,
   ThemeOptions,
@@ -44,6 +51,12 @@ import {
 } from "@mui/material/styles"
 
 export {
+  Backdrop,
+  BackdropProps,
+  CircularProgress,
+  CircularProgressProps,
+  LinearProgress,
+  LinearProgressProps,
   Alert,
   AlertProps,
   AppBar,
