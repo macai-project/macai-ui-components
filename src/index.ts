@@ -49,6 +49,10 @@ import {
   ThemeProvider,
   styled,
 } from "@mui/material/styles"
+import Switch, { SwitchProps } from "@mui/material/Switch"
+import MenuItem, { MenuItemProps } from "@mui/material/MenuItem"
+import FormLabel, { FormLabelProps } from "@mui/material/FormLabel"
+import Chip, { ChipProps } from "@mui/material/Chip"
 
 export {
   Backdrop,
@@ -129,6 +133,14 @@ export {
   styled,
   CssBaseline,
   CssBaselineProps,
+  Switch,
+  SwitchProps,
+  MenuItem,
+  MenuItemProps,
+  FormLabel,
+  FormLabelProps,
+  Chip,
+  ChipProps,
 }
 
 import LocalizationProvider, {
