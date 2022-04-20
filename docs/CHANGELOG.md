@@ -1,3 +1,11 @@
+# [1.16.0](https://github.com/macai-project/macai-ui-components/compare/v1.15.0...v1.16.0) (2022-04-20)
+
+
+### Features
+
+* export menu component ([f48b79c](https://github.com/macai-project/macai-ui-components/commit/f48b79cea0298d3a4093ec9d0c93ae15d84fb059))
+* export MenuItem, FormLabel, Chip, switch components ([d428630](https://github.com/macai-project/macai-ui-components/commit/d428630371e3103ab6644a0888966989905e297e))
+
 # [1.15.0](https://github.com/macai-project/macai-ui-components/compare/v1.14.0...v1.15.0) (2022-04-15)
 
 
