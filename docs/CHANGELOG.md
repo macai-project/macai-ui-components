@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/macai-project/macai-ui-components/compare/v1.16.0...v1.17.0) (2022-04-21)
+
+
+### Features
+
+* export snackbar component ([f04758e](https://github.com/macai-project/macai-ui-components/commit/f04758e471d48d177d5fe0d3f24dd7cf87f2bda3))
+
 # [1.16.0](https://github.com/macai-project/macai-ui-components/compare/v1.15.0...v1.16.0) (2022-04-20)
 
 
