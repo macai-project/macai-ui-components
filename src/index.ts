@@ -54,6 +54,7 @@ import Menu, { MenuProps } from "@mui/material/Menu"
 import MenuItem, { MenuItemProps } from "@mui/material/MenuItem"
 import FormLabel, { FormLabelProps } from "@mui/material/FormLabel"
 import Chip, { ChipProps } from "@mui/material/Chip"
+import Snackbar, { SnackbarOrigin, SnackbarProps } from "@mui/material/Snackbar"
 
 export {
   Backdrop,
@@ -144,6 +145,9 @@ export {
   FormLabelProps,
   Chip,
   ChipProps,
+  Snackbar,
+  SnackbarProps,
+  SnackbarOrigin,
 }
 
 import LocalizationProvider, {
