@@ -55,6 +55,9 @@ import MenuItem, { MenuItemProps } from "@mui/material/MenuItem"
 import FormLabel, { FormLabelProps } from "@mui/material/FormLabel"
 import Chip, { ChipProps } from "@mui/material/Chip"
 import Snackbar, { SnackbarOrigin, SnackbarProps } from "@mui/material/Snackbar"
+import Dialog, { DialogProps } from "@mui/material/Dialog"
+import DialogTitle, { DialogTitleProps } from "@mui/material/DialogTitle"
+import DialogActions, { DialogActionsProps } from "@mui/material/DialogActions"
 
 export {
   Backdrop,
@@ -148,6 +151,12 @@ export {
   Snackbar,
   SnackbarProps,
   SnackbarOrigin,
+  Dialog,
+  DialogProps,
+  DialogTitle,
+  DialogTitleProps,
+  DialogActions,
+  DialogActionsProps,
 }
 
 import LocalizationProvider, {
@@ -158,6 +167,7 @@ import DesktopDatePicker, {
 } from "@mui/lab/DesktopDatePicker"
 import { DatePickerProps } from "@mui/lab/DatePicker"
 import AdapterDateFns from "@mui/lab/AdapterDateFns"
+
 export {
   LocalizationProvider,
   LocalizationProviderProps,
