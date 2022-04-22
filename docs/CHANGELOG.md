@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/macai-project/macai-ui-components/compare/v1.17.0...v1.18.0) (2022-04-22)
+
+
+### Features
+
+* export dialog components ([15580d7](https://github.com/macai-project/macai-ui-components/commit/15580d7f2c91a74a6997b13201ba2a2d5ec357d5))
+
 # [1.17.0](https://github.com/macai-project/macai-ui-components/compare/v1.16.0...v1.17.0) (2022-04-21)
 
 
