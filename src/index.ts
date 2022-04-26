@@ -58,6 +58,9 @@ import Snackbar, { SnackbarOrigin, SnackbarProps } from "@mui/material/Snackbar"
 import Dialog, { DialogProps } from "@mui/material/Dialog"
 import DialogTitle, { DialogTitleProps } from "@mui/material/DialogTitle"
 import DialogActions, { DialogActionsProps } from "@mui/material/DialogActions"
+import SwipeableDrawer, {
+  SwipeableDrawerProps,
+} from "@mui/material/SwipeableDrawer"
 
 export {
   Backdrop,
@@ -114,6 +117,8 @@ export {
   StackProps,
   SvgIcon,
   SvgIconProps,
+  SwipeableDrawer,
+  SwipeableDrawerProps,
   Table,
   TableProps,
   TableBody,
