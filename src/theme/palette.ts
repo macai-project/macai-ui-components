@@ -3,6 +3,7 @@ import {
   TypeAction,
   TypeText,
 } from "@mui/material/styles"
+import { lighten } from "@mui/system"
 
 export const primary: SimplePaletteColorOptions = {
   main: "#F7931E",
@@ -12,20 +13,20 @@ export const primary: SimplePaletteColorOptions = {
 }
 export const secondary = {
   main: "#009CC5",
-  light: "#2ED3FF",
+  light: lighten("#009CC5", 0.08),
   dark: "#007594",
   contrastText: "#FFFFFF",
   shades: { "8p": "rgba(0, 156, 197, 0.08)" },
 }
 export const error = {
-  main: "#F15B24",
-  dark: "#C62828",
+  main: "#C62828",
+  light: lighten("#F15B24", 0.12),
   contrastText: "#FFFFFF",
   shades: { "12p": "rgba(241, 91, 36, 0.12)" },
 }
 export const warning = {
-  main: "#FF9800",
-  dark: "#E65100",
+  main: "#E65100",
+  light: lighten("#ED6C02", 0.12),
   contrastText: "#FFFFFF",
   shades: { "12p": "rgba(237, 108, 2, 0.12)" },
 }
@@ -37,6 +38,7 @@ export const info = {
 export const success = {
   main: "#2EA836",
   dark: "#18581C",
+  light: lighten("#2E7D32", 0.12),
   contrastText: "#FFFFFF",
   shades: { "12p": "rgba(46, 125, 50, 0.12)" },
 }
