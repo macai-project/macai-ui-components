@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/macai-project/macai-ui-components/compare/v1.18.0...v1.19.0) (2022-04-28)
+
+
+### Features
+
+* export `SwipeableDrawer` ([ff100c5](https://github.com/macai-project/macai-ui-components/commit/ff100c5622b561d2d94f68df8d52de4ab018195f))
+
 # [1.18.0](https://github.com/macai-project/macai-ui-components/compare/v1.17.0...v1.18.0) (2022-04-22)
 
 
