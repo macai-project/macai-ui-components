@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/macai-project/macai-ui-components/compare/v1.19.0...v1.20.0) (2022-04-28)
+
+
+### Features
+
+* move color 12p to light color and dark color to main color ([a954a18](https://github.com/macai-project/macai-ui-components/commit/a954a18c66e473d00f015540368f73c62a466385))
+
 # [1.19.0](https://github.com/macai-project/macai-ui-components/compare/v1.18.0...v1.19.0) (2022-04-28)
 
 
