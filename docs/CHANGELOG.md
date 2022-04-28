@@ -1,3 +1,10 @@
+## [1.20.1](https://github.com/macai-project/macai-ui-components/compare/v1.20.0...v1.20.1) (2022-04-28)
+
+
+### Bug Fixes
+
+* export module augumetation ([478c6f9](https://github.com/macai-project/macai-ui-components/commit/478c6f9798abacf715d70a3356485d6cf2b0d07e))
+
 # [1.20.0](https://github.com/macai-project/macai-ui-components/compare/v1.19.0...v1.20.0) (2022-04-28)
 
 
