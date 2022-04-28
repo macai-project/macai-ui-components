@@ -73,13 +73,6 @@ export const MuiCssBaseline: Components["MuiCssBaseline"] = {
   },
 }
 
-declare module "@mui/material/SvgIcon" {
-  interface SvgIconPropsSizeOverrides {
-    "x-small": true
-    "x-large": true
-  }
-}
-
 export const MuiSvgIcon: Components["MuiSvgIcon"] = {
   variants: [
     { props: { fontSize: "x-small" }, style: { height: 24, width: 24 } },
@@ -93,16 +86,6 @@ export const MuiSvgIcon: Components["MuiSvgIcon"] = {
       display: "block",
     },
   },
-}
-
-declare module "@mui/material/Paper" {
-  interface PaperPropsVariantOverrides {
-    neutral: true
-    info: true
-    success: true
-    warning: true
-    error: true
-  }
 }
 
 export const MuiCard: Components["MuiCard"] = {
@@ -150,12 +133,6 @@ export const MuiCard: Components["MuiCard"] = {
       },
     },
   ],
-}
-
-declare module "@mui/material/SvgIcon" {
-  interface SvgIconPropsSizeOverrides {
-    "x-large": true
-  }
 }
 
 export const MuiDrawer: Components["MuiDrawer"] = {
