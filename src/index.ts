@@ -183,3 +183,6 @@ export {
 }
 
 export { mobileTheme, desktopTheme } from "./theme"
+
+// USED TO EXPORT MODULE AUGMENTATION
+import "./shims-mui"
