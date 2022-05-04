@@ -137,7 +137,16 @@ export const MuiCard: Components["MuiCard"] = {
 
 export const MuiDrawer: Components["MuiDrawer"] = {
   styleOverrides: {
-    root: {
+    paperAnchorLeft: {
+      borderRadius: "0px 4px 4px 0px",
+    },
+    paperAnchorRight: {
+      borderRadius: "4px 0px 0px 4px",
+    },
+    paperAnchorTop: {
+      borderRadius: "0px 0px 4px 4px",
+    },
+    paperAnchorBottom: {
       borderRadius: "4px 4px 0px 0px",
     },
   },
