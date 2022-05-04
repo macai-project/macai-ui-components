@@ -1,3 +1,11 @@
+## [1.20.2](https://github.com/macai-project/macai-ui-components/compare/v1.20.1...v1.20.2) (2022-05-04)
+
+
+### Bug Fixes
+
+* drawer borderRadius ([b4814f5](https://github.com/macai-project/macai-ui-components/commit/b4814f50e0a372f15b830c474d80f799c024c264))
+* remove border radius in root styleOverrides ([793e055](https://github.com/macai-project/macai-ui-components/commit/793e0553f917fdee88d002a8259e1c606ef695e1))
+
 ## [1.20.1](https://github.com/macai-project/macai-ui-components/compare/v1.20.0...v1.20.1) (2022-04-28)
 
 
