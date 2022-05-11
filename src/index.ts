@@ -61,6 +61,8 @@ import DialogActions, { DialogActionsProps } from "@mui/material/DialogActions"
 import SwipeableDrawer, {
   SwipeableDrawerProps,
 } from "@mui/material/SwipeableDrawer"
+import Tabs, { TabsProps } from "@mui/material/Tabs"
+import Tab, { TabProps } from "@mui/material/Tab"
 
 export {
   Backdrop,
@@ -131,6 +133,10 @@ export {
   TableRowProps,
   TableContainer,
   TableContainerProps,
+  Tabs,
+  TabsProps,
+  Tab,
+  TabProps,
   TextField,
   TextFieldProps,
   ThemeOptions,
