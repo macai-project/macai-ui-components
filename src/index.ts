@@ -68,6 +68,7 @@ import InputLabel, { InputLabelProps } from "@mui/material/InputLabel"
 import FormHelperText, {
   FormHelperTextProps,
 } from "@mui/material/FormHelperText"
+import Checkbox, { CheckboxProps } from "@mui/material/Checkbox"
 
 export {
   Backdrop,
@@ -180,6 +181,8 @@ export {
   SelectChangeEvent,
   FormHelperText,
   FormHelperTextProps,
+  Checkbox,
+  CheckboxProps,
 }
 
 import LocalizationProvider, {
