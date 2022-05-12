@@ -61,6 +61,14 @@ import DialogActions, { DialogActionsProps } from "@mui/material/DialogActions"
 import SwipeableDrawer, {
   SwipeableDrawerProps,
 } from "@mui/material/SwipeableDrawer"
+import Tabs, { TabsProps } from "@mui/material/Tabs"
+import Tab, { TabProps } from "@mui/material/Tab"
+import Select, { SelectProps, SelectChangeEvent } from "@mui/material/Select"
+import InputLabel, { InputLabelProps } from "@mui/material/InputLabel"
+import FormHelperText, {
+  FormHelperTextProps,
+} from "@mui/material/FormHelperText"
+import Checkbox, { CheckboxProps } from "@mui/material/Checkbox"
 
 export {
   Backdrop,
@@ -97,6 +105,8 @@ export {
   IconButtonProps,
   Input,
   InputProps,
+  InputLabel,
+  InputLabelProps,
   Link,
   LinkProps,
   List,
@@ -131,6 +141,10 @@ export {
   TableRowProps,
   TableContainer,
   TableContainerProps,
+  Tabs,
+  TabsProps,
+  Tab,
+  TabProps,
   TextField,
   TextFieldProps,
   ThemeOptions,
@@ -162,6 +176,13 @@ export {
   DialogTitleProps,
   DialogActions,
   DialogActionsProps,
+  Select,
+  SelectProps,
+  SelectChangeEvent,
+  FormHelperText,
+  FormHelperTextProps,
+  Checkbox,
+  CheckboxProps,
 }
 
 import LocalizationProvider, {

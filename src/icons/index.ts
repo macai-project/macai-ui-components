@@ -71,6 +71,7 @@ import AccountTreeOutlined from "@mui/icons-material/AccountTreeOutlined"
 import WarningAmberOutlined from "@mui/icons-material/WarningAmberOutlined"
 import Warning from "@mui/icons-material/Warning"
 import Warehouse from "@mui/icons-material/Warehouse"
+import Save from "@mui/icons-material/Save"
 
 export {
   AccountCircle,
@@ -146,4 +147,5 @@ export {
   WarningAmberOutlined,
   Warning,
   Warehouse,
+  Save,
 }
