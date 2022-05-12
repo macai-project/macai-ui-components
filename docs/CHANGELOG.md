@@ -1,3 +1,18 @@
+# [1.21.0](https://github.com/macai-project/macai-ui-components/compare/v1.20.2...v1.21.0) (2022-05-12)
+
+
+### Bug Fixes
+
+* rename icon ([97b1e5f](https://github.com/macai-project/macai-ui-components/commit/97b1e5f22f32099fa6ba20c67d2f749d935a8af3))
+
+
+### Features
+
+* add save icone ([be2a081](https://github.com/macai-project/macai-ui-components/commit/be2a081d657fb6213ed5417bd92ee6e5ee80b7be))
+* export checkbox component ([c4a0233](https://github.com/macai-project/macai-ui-components/commit/c4a0233954c99a805cf24819f05682f46a371a04))
+* export select component ([75dbc22](https://github.com/macai-project/macai-ui-components/commit/75dbc223eff020ad8e0effac6c6062850cfe727b))
+* export Tabs components ([219f3b9](https://github.com/macai-project/macai-ui-components/commit/219f3b9af2619b195fd6e7fc56b4b4b60eea5d0a))
+
 ## [1.20.2](https://github.com/macai-project/macai-ui-components/compare/v1.20.1...v1.20.2) (2022-05-04)
 
 
