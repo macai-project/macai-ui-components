@@ -26,6 +26,7 @@ import ContentCopy from "@mui/icons-material/ContentCopy"
 import ContentCut from "@mui/icons-material/ContentCut"
 import ContentPasteOutlined from "@mui/icons-material/ContentPasteOutlined"
 import DateRange from "@mui/icons-material/DateRange"
+import Delete from "@mui/icons-material/Delete"
 import DocumentScannerOutlined from "@mui/icons-material/DocumentScannerOutlined"
 import Edit from "@mui/icons-material/Edit"
 import Error from "@mui/icons-material/Error"
@@ -102,6 +103,7 @@ export {
   ContentCut,
   ContentPasteOutlined,
   DateRange,
+  Delete,
   DocumentScannerOutlined,
   Edit,
   Error,
