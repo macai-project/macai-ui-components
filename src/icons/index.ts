@@ -58,6 +58,7 @@ import QueryBuilder from "@mui/icons-material/QueryBuilder"
 import RadioButtonChecked from "@mui/icons-material/RadioButtonChecked"
 import RadioButtonUnchecked from "@mui/icons-material/RadioButtonUnchecked"
 import Receipt from "@mui/icons-material/Receipt"
+import Remove from "@mui/icons-material/Remove"
 import RemoveRedEye from "@mui/icons-material/RemoveRedEye"
 import ListAltRounded from "@mui/icons-material/ListAltRounded"
 import Search from "@mui/icons-material/Search"
@@ -135,6 +136,7 @@ export {
   RadioButtonChecked,
   RadioButtonUnchecked,
   Receipt,
+  Remove,
   RemoveRedEye,
   ListAltRounded,
   Search,
