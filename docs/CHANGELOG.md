@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/macai-project/macai-ui-components/compare/v1.22.0...v1.23.0) (2022-05-31)
+
+
+### Features
+
+* export `Remove` icon ([e3315fd](https://github.com/macai-project/macai-ui-components/commit/e3315fd99f8fa1c66bcb945b6bccd61955569b7a))
+
 # [1.22.0](https://github.com/macai-project/macai-ui-components/compare/v1.21.0...v1.22.0) (2022-05-18)
 
 
