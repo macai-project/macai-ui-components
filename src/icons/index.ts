@@ -36,6 +36,7 @@ import ExpandMore from "@mui/icons-material/ExpandMore"
 import Favorite from "@mui/icons-material/Favorite"
 import Folder from "@mui/icons-material/Folder"
 import FormatAlignLeft from "@mui/icons-material/FormatAlignLeft"
+import ForwardToInboxIcon from "@mui/icons-material/ForwardToInbox"
 import IndeterminateCheckBox from "@mui/icons-material/IndeterminateCheckBox"
 import InfoOutlined from "@mui/icons-material/InfoOutlined"
 import LocationOn from "@mui/icons-material/LocationOn"
@@ -114,6 +115,7 @@ export {
   Favorite,
   Folder,
   FormatAlignLeft,
+  ForwardToInboxIcon,
   IndeterminateCheckBox,
   InfoOutlined,
   LocationOn,
