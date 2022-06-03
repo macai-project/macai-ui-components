@@ -42,6 +42,7 @@ import InfoOutlined from "@mui/icons-material/InfoOutlined"
 import LocationOn from "@mui/icons-material/LocationOn"
 import Logout from "@mui/icons-material/Logout"
 import Mail from "@mui/icons-material/Mail"
+import MarkChatReadIcon from "@mui/icons-material/MarkChatRead"
 import Menu from "@mui/icons-material/Menu"
 import MoreHoriz from "@mui/icons-material/MoreHoriz"
 import MoreVert from "@mui/icons-material/MoreVert"
@@ -121,6 +122,7 @@ export {
   LocationOn,
   Logout,
   Mail,
+  MarkChatReadIcon,
   Menu,
   MoreHoriz,
   MoreVert,
