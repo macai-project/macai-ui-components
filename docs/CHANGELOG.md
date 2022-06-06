@@ -1,3 +1,12 @@
+# [1.24.0](https://github.com/macai-project/macai-ui-components/compare/v1.23.0...v1.24.0) (2022-06-06)
+
+
+### Features
+
+* **export forwardtoinboxicon:** exports ForwardToInboxIcon icon ([2e80dad](https://github.com/macai-project/macai-ui-components/commit/2e80dadbf8fac71c9c1b6e246b70a6e850fe83cf))
+* **exports markchatreadicon:** exports MarkChatReadIcon ([df67468](https://github.com/macai-project/macai-ui-components/commit/df67468a64e2a21208589db3e2b1d7976515bc23))
+* **exports tooltip:** exports tooltip component ([36e38b5](https://github.com/macai-project/macai-ui-components/commit/36e38b589415bcf6f19e15529f3d16b18977a544))
+
 # [1.23.0](https://github.com/macai-project/macai-ui-components/compare/v1.22.0...v1.23.0) (2022-05-31)
 
 
