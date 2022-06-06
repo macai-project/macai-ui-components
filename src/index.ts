@@ -63,6 +63,7 @@ import SwipeableDrawer, {
 } from "@mui/material/SwipeableDrawer"
 import Tabs, { TabsProps } from "@mui/material/Tabs"
 import Tab, { TabProps } from "@mui/material/Tab"
+import Tooltip, { TooltipProps } from "@mui/material/Tooltip"
 import Select, { SelectProps, SelectChangeEvent } from "@mui/material/Select"
 import InputLabel, { InputLabelProps } from "@mui/material/InputLabel"
 import FormHelperText, {
@@ -147,6 +148,8 @@ export {
   TabProps,
   TextField,
   TextFieldProps,
+  Tooltip,
+  TooltipProps,
   ThemeOptions,
   ThemeProvider,
   Typography,

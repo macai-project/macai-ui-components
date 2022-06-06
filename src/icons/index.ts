@@ -36,11 +36,13 @@ import ExpandMore from "@mui/icons-material/ExpandMore"
 import Favorite from "@mui/icons-material/Favorite"
 import Folder from "@mui/icons-material/Folder"
 import FormatAlignLeft from "@mui/icons-material/FormatAlignLeft"
+import ForwardToInboxIcon from "@mui/icons-material/ForwardToInbox"
 import IndeterminateCheckBox from "@mui/icons-material/IndeterminateCheckBox"
 import InfoOutlined from "@mui/icons-material/InfoOutlined"
 import LocationOn from "@mui/icons-material/LocationOn"
 import Logout from "@mui/icons-material/Logout"
 import Mail from "@mui/icons-material/Mail"
+import MarkChatReadIcon from "@mui/icons-material/MarkChatRead"
 import Menu from "@mui/icons-material/Menu"
 import MoreHoriz from "@mui/icons-material/MoreHoriz"
 import MoreVert from "@mui/icons-material/MoreVert"
@@ -114,11 +116,13 @@ export {
   Favorite,
   Folder,
   FormatAlignLeft,
+  ForwardToInboxIcon,
   IndeterminateCheckBox,
   InfoOutlined,
   LocationOn,
   Logout,
   Mail,
+  MarkChatReadIcon,
   Menu,
   MoreHoriz,
   MoreVert,
