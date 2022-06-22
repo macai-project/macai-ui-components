@@ -1,3 +1,10 @@
+# [1.26.0](https://github.com/macai-project/macai-ui-components/compare/v1.25.0...v1.26.0) (2022-06-22)
+
+
+### Features
+
+* overwriting button size medium style ([1440722](https://github.com/macai-project/macai-ui-components/commit/14407222232ed548566ab11eb83d673ac2d5a966))
+
 # [1.25.0](https://github.com/macai-project/macai-ui-components/compare/v1.24.0...v1.25.0) (2022-06-22)
 
 
