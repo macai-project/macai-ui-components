@@ -190,12 +190,12 @@ export {
 
 import LocalizationProvider, {
   LocalizationProviderProps,
-} from "@mui/lab/LocalizationProvider"
+} from "@mui/x-date-pickers/LocalizationProvider"
 import DesktopDatePicker, {
   DesktopDatePickerProps,
-} from "@mui/lab/DesktopDatePicker"
-import { DatePickerProps } from "@mui/lab/DatePicker"
-import AdapterDateFns from "@mui/lab/AdapterDateFns"
+} from "@mui/x-date-pickers/DesktopDatePicker"
+import { DatePickerProps } from "@mui/x-date-pickers/DatePicker"
+import AdapterDateFns from "@mui/x-date-pickers/AdapterDateFns"
 
 export {
   LocalizationProvider,
