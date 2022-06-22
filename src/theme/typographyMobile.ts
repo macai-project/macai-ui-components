@@ -1,5 +1,8 @@
 import { TypographyStyleOptions } from "@mui/material/styles/createTypography"
 
+export const allVariants: React.CSSProperties = {
+  userSelect: "none",
+}
 export const h1: TypographyStyleOptions = {
   fontSize: "96px",
   fontStyle: "normal",
