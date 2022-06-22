@@ -22,6 +22,12 @@ export const MuiButton: Components["MuiButton"] = {
       },
     },
     {
+      props: { size: "medium" },
+      style: {
+        padding: 8,
+      },
+    },
+    {
       props: { size: "large", variant: "contained" },
       style: { padding: "16px" },
     },
