@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/macai-project/macai-ui-components/compare/v1.24.0...v1.25.0) (2022-06-22)
+
+
+### Features
+
+* apply `user-select: "none"` to all the `Typography` components ([62788b6](https://github.com/macai-project/macai-ui-components/commit/62788b60a97966d45689b436b76f081f32bbfc9b))
+
 # [1.24.0](https://github.com/macai-project/macai-ui-components/compare/v1.23.0...v1.24.0) (2022-06-06)
 
 
