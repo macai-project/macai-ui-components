@@ -1,6 +1,6 @@
 {
   "name": "macai-ui-components",
-  "version": "1.26.0",
+  "version": "1.26.1",
   "description": "A small library of basic react components using MUI.",
   "main": "dist",
   "publishConfig": {

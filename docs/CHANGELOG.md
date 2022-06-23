@@ -1,3 +1,10 @@
+## [1.26.1](https://github.com/macai-project/macai-ui-components/compare/v1.26.0...v1.26.1) (2022-06-23)
+
+
+### Bug Fixes
+
+* change export from default to named for @mui/x-date-picker components ([1c7ef22](https://github.com/macai-project/macai-ui-components/commit/1c7ef22aa2b23d6b206aa75a4dc2727e9ecd4b69))
+
 # [1.26.0](https://github.com/macai-project/macai-ui-components/compare/v1.25.0...v1.26.0) (2022-06-22)
 
 
