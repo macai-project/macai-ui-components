@@ -70,6 +70,10 @@ import FormHelperText, {
   FormHelperTextProps,
 } from "@mui/material/FormHelperText"
 import Checkbox, { CheckboxProps } from "@mui/material/Checkbox"
+import OutlinedInput, { OutlinedInputProps } from "@mui/material/OutlinedInput"
+import InputAdornment, {
+  InputAdornmentProps,
+} from "@mui/material/InputAdornment"
 
 export {
   Backdrop,
@@ -106,6 +110,8 @@ export {
   IconButtonProps,
   Input,
   InputProps,
+  InputAdornment,
+  InputAdornmentProps,
   InputLabel,
   InputLabelProps,
   Link,
@@ -120,6 +126,8 @@ export {
   ListItemTextProps,
   Modal,
   ModalProps,
+  OutlinedInput,
+  OutlinedInputProps,
   Radio,
   RadioProps,
   RadioGroup,
