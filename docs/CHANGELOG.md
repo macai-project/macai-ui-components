@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/macai-project/macai-ui-components/compare/v1.26.1...v1.27.0) (2022-07-27)
+
+
+### Features
+
+* **outlinedinput:** imports OutlinedInput ([0cb8103](https://github.com/macai-project/macai-ui-components/commit/0cb8103405786227ec3c723d712dcd92752c263a))
+
 ## [1.26.1](https://github.com/macai-project/macai-ui-components/compare/v1.26.0...v1.26.1) (2022-06-23)
 
 
