@@ -39,16 +39,18 @@ import FormatAlignLeft from "@mui/icons-material/FormatAlignLeft"
 import ForwardToInboxIcon from "@mui/icons-material/ForwardToInbox"
 import IndeterminateCheckBox from "@mui/icons-material/IndeterminateCheckBox"
 import InfoOutlined from "@mui/icons-material/InfoOutlined"
+import LocalOfferOutlined from "@mui/icons-material/LocalOfferOutlined"
 import LocationOn from "@mui/icons-material/LocationOn"
+import LocalShippingOutlined from "@mui/icons-material/LocalShippingOutlined"
 import Logout from "@mui/icons-material/Logout"
 import Mail from "@mui/icons-material/Mail"
+import MapOutlined from "@mui/icons-material/MapOutlined"
 import MarkChatReadIcon from "@mui/icons-material/MarkChatRead"
 import Menu from "@mui/icons-material/Menu"
 import MoreHoriz from "@mui/icons-material/MoreHoriz"
 import MoreVert from "@mui/icons-material/MoreVert"
 import MoreVertOutlined from "@mui/icons-material/MoreVertOutlined"
 import Notifications from "@mui/icons-material/Notifications"
-import LocalOfferOutlined from "@mui/icons-material/LocalOfferOutlined"
 import Password from "@mui/icons-material/Password"
 import People from "@mui/icons-material/People"
 import PersonAdd from "@mui/icons-material/PersonAdd"
@@ -120,16 +122,18 @@ export {
   ForwardToInboxIcon,
   IndeterminateCheckBox,
   InfoOutlined,
+  LocalOfferOutlined,
   LocationOn,
+  LocalShippingOutlined,
   Logout,
   Mail,
+  MapOutlined,
   MarkChatReadIcon,
   Menu,
   MoreHoriz,
   MoreVert,
   MoreVertOutlined,
   Notifications,
-  LocalOfferOutlined,
   Password,
   People,
   PersonAdd,
