@@ -1,3 +1,10 @@
+# [1.28.0](https://github.com/macai-project/macai-ui-components/compare/v1.27.0...v1.28.0) (2022-10-04)
+
+
+### Features
+
+* **adds icons: mapoutlined and localshippingoutlined:** adds:MapOutlined and LocalShippingOutlined ([6e26d88](https://github.com/macai-project/macai-ui-components/commit/6e26d88a4826cbfe64a38d815836a687bad83fd5))
+
 # [1.27.0](https://github.com/macai-project/macai-ui-components/compare/v1.26.1...v1.27.0) (2022-07-27)
 
 
