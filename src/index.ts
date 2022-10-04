@@ -1,3 +1,10 @@
+import Accordion, { AccordionProps } from "@mui/material/Accordion"
+import AccordionDetails, {
+  AccordionDetailsProps,
+} from "@mui/material/AccordionDetails"
+import AccordionSummary, {
+  AccordionSummaryProps,
+} from "@mui/material/AccordionSummary"
 import Alert, { AlertProps } from "@mui/material/Alert"
 import AppBar, { AppBarProps } from "@mui/material/AppBar"
 import Badge, { BadgeProps } from "@mui/material/Badge"
@@ -76,16 +83,18 @@ import InputAdornment, {
 } from "@mui/material/InputAdornment"
 
 export {
-  Backdrop,
-  BackdropProps,
-  CircularProgress,
-  CircularProgressProps,
-  LinearProgress,
-  LinearProgressProps,
+  Accordion,
+  AccordionProps,
+  AccordionDetails,
+  AccordionDetailsProps,
+  AccordionSummary,
+  AccordionSummaryProps,
   Alert,
   AlertProps,
   AppBar,
   AppBarProps,
+  Backdrop,
+  BackdropProps,
   Badge,
   BadgeProps,
   Box,
@@ -94,6 +103,8 @@ export {
   ButtonProps,
   Card,
   CardProps,
+  CircularProgress,
+  CircularProgressProps,
   Container,
   ContainerProps,
   Divider,
@@ -114,6 +125,8 @@ export {
   InputAdornmentProps,
   InputLabel,
   InputLabelProps,
+  LinearProgress,
+  LinearProgressProps,
   Link,
   LinkProps,
   List,
