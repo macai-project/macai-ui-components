@@ -1,3 +1,10 @@
+# [1.29.0](https://github.com/macai-project/macai-ui-components/compare/v1.28.0...v1.29.0) (2022-10-04)
+
+
+### Features
+
+* **accordion:** adds accordion ([1038b41](https://github.com/macai-project/macai-ui-components/commit/1038b411d146292c50cb91bc13558fe090495df7))
+
 # [1.28.0](https://github.com/macai-project/macai-ui-components/compare/v1.27.0...v1.28.0) (2022-10-04)
 
 
