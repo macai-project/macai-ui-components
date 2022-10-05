@@ -81,6 +81,9 @@ import OutlinedInput, { OutlinedInputProps } from "@mui/material/OutlinedInput"
 import InputAdornment, {
   InputAdornmentProps,
 } from "@mui/material/InputAdornment"
+import TextareaAutosize, {
+  TextareaAutosizeProps,
+} from "@mui/material/TextareaAutosize"
 
 export {
   Accordion,
@@ -167,6 +170,8 @@ export {
   TabsProps,
   Tab,
   TabProps,
+  TextareaAutosize,
+  TextareaAutosizeProps,
   TextField,
   TextFieldProps,
   Tooltip,
