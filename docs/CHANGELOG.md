@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/macai-project/macai-ui-components/compare/v1.29.0...v1.30.0) (2022-10-05)
+
+
+### Features
+
+* **adds textareaautosize:** adds TextareaAutosize ([d59b359](https://github.com/macai-project/macai-ui-components/commit/d59b359758d1eae9e357c9823add8b4e5df52aa9))
+
 # [1.29.0](https://github.com/macai-project/macai-ui-components/compare/v1.28.0...v1.29.0) (2022-10-04)
 
 
