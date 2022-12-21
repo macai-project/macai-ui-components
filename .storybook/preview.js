@@ -1,6 +1,6 @@
 import React from "react"
 import { mobileTheme, ThemeProvider } from "../src"
-import { ThemeProvider as Emotion10ThemeProvider } from "emotion-theming"
+import { ThemeProvider as Emotion10ThemeProvider } from "@emotion/react"
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
