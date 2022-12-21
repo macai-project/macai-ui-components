@@ -1,3 +1,5 @@
+## [1.31.1](https://github.com/macai-project/macai-ui-components/compare/v1.31.0...v1.31.1) (2022-12-21)
+
 # [1.31.0](https://github.com/macai-project/macai-ui-components/compare/v1.30.0...v1.31.0) (2022-12-21)
 
 
