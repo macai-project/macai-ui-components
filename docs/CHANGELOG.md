@@ -1,3 +1,10 @@
+# [1.31.0](https://github.com/macai-project/macai-ui-components/compare/v1.30.0...v1.31.0) (2022-12-21)
+
+
+### Features
+
+* add loading button to export ([7590322](https://github.com/macai-project/macai-ui-components/commit/75903223d620852a07b30d9ac93b9eb0d73d90d9))
+
 # [1.30.0](https://github.com/macai-project/macai-ui-components/compare/v1.29.0...v1.30.0) (2022-10-05)
 
 
