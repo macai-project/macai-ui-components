@@ -1,3 +1,10 @@
+# [1.32.0](https://github.com/macai-project/macai-ui-components/compare/v1.31.1...v1.32.0) (2023-01-25)
+
+
+### Features
+
+* update [@mui](https://github.com/mui) deps ([54da3af](https://github.com/macai-project/macai-ui-components/commit/54da3afda83dbe6ba944cb4e99baa7138bee6650))
+
 ## [1.31.1](https://github.com/macai-project/macai-ui-components/compare/v1.31.0...v1.31.1) (2022-12-21)
 
 # [1.31.0](https://github.com/macai-project/macai-ui-components/compare/v1.30.0...v1.31.0) (2022-12-21)
